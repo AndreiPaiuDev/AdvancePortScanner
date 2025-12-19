@@ -28,9 +28,9 @@ A fast, multithreaded **TCP/UDP port scanner** written in Python 3. Built for ef
 
 Clone this repository and make the script executable:
 
- git clone https://github.com/AndreiPaiuDev/AdvancePortScanner.git
- cd AdvancePortScanner
- chmod +x portScanner.py
+-  git clone https://github.com/AndreiPaiuDev/AdvancePortScanner.git
+-  cd AdvancePortScanner
+-  chmod +x portScanner.py
 
 
 ---
